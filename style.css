@@ -1,5 +1,11 @@
-.bg {
-  background-color: #CDD7D6;
+.text {
+  /* want to figure out drop shadow on text */
+  font-family: 'Monoton';
+  font-size: 200px;
+  color: #CDD7D6;
+  position: absolute;
+  top: 200px;
+  right: 100px;
 }
 
 .css {
