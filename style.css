@@ -1,0 +1,13 @@
+.bg {
+  background-color: #CDD7D6;
+}
+
+.css {
+  height: 800px;
+  background: 
+    repeating-radial-gradient(
+      circle at 0 0, 
+    #F87060, 
+    #102542 50px
+    );
+}
